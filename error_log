@@ -1,0 +1,6 @@
+[24-May-2016 05:07:14 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 130968 bytes) in /home/khushbooshah/public_html/wp-includes/class.wp-dependencies.php on line 165
+[24-May-2016 05:08:15 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 130968 bytes) in /home/khushbooshah/public_html/wp-includes/class.wp-dependencies.php on line 165
+[24-May-2016 06:47:36 UTC] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /home/khushbooshah/public_html/wp-content/themes/earthlings/index.php on line 26
+[23-Jun-2016 04:44:17 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/khushbooshah/public_html/wp-content/themes/earthlings/content-post-header.php on line 50
+[23-Jun-2016 04:50:01 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/khushbooshah/public_html/wp-content/themes/earthlings/content-post-header.php on line 47
+[30-Jun-2016 07:25:22 UTC] PHP Parse error:  syntax error, unexpected '$form' (T_VARIABLE) in /home/khushbooshah/public_html/wp-content/plugins/newsletter/widget.php on line 18

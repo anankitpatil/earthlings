@@ -1,0 +1,2 @@
+[30-Jun-2016 07:02:24 UTC] PHP Fatal error:  Cannot redeclare dm_prevent_update_check() (previously declared in /home/khushbooshah/public_html/wp-content/plugins/events-manager/events-manager.php:791) in /home/khushbooshah/public_html/wp-content/plugins/newsletter/plugin.php on line 1509
+[30-Jun-2016 07:02:42 UTC] PHP Fatal error:  Cannot redeclare dm_prevent_update_check() (previously declared in /home/khushbooshah/public_html/wp-content/plugins/events-manager/events-manager.php:791) in /home/khushbooshah/public_html/wp-content/plugins/newsletter/plugin.php on line 1509

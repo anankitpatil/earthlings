@@ -1,13 +1,20 @@
 <div class="container">
     <div class="row">
         <section class="col-lg-12 cat-content text-center">
-            <h3>We are young, we are enthusiastic and we are here for Change!</h3>
+          <?php
+            $page = get_page_by_title('Home');
+            $content = apply_filters('the_content', $page->post_content);
+            $custom = get_post_custom($page->ID);
+            echo '<h3>' . $custom['_subtitle'][0] . '</h3>';
+            echo $content;
+          ?>
+            <!--<h3>We are young, we are enthusiastic and we are here for Change!</h3>
             <div class="embed-responsive embed-responsive-16by9">
                 <iframe class="embed-responsive-item" src="//www.youtube.com/embed/_6KUtHzs9Hs"></iframe>
             </div>
             <p>We can’t really define ourselves or confine ourselves... but we will try our best to explain ourselves!</p>
             <p>We are a group of young doctors, psychologists, healers, therapists, archaeologists, mountaineers, film makers, poets, ecologists, storytellers, dancers, students who while dealing with our own individual “problems”.. big and small realised the only real elements missing to “solving” these issues were fun, laughter and joy!</p>
-            <p>We conduct workshops, sessions, talks, discussions, drum circles, treks, movie nights, book clubs, poetry slams, open jams all to one end... to create a non-judgemental environment.. to have some fun.. to create a sense of lightness.. to create a sense of community and camaraderie!</p>
+            <p>We conduct workshops, sessions, talks, discussions, drum circles, treks, movie nights, book clubs, poetry slams, open jams all to one end... to create a non-judgemental environment.. to have some fun.. to create a sense of lightness.. to create a sense of community and camaraderie!</p>-->
         </section>
     </div>
     <div class="row">

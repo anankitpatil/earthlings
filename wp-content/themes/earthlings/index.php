@@ -59,41 +59,38 @@ get_header(); ?>
 
 	<section id="primary" class="content-area col-lg-12">
 		<main id="main" class="site-main <?php if (is_home() || is_category()) {
-    echo 'root-main';
-} ?>" role="main">
+            echo 'root-main';
+        } ?>" role="main">
 			<?php
             // Ger query for modification
             global $query_string;
             parse_str($query_string, $args);
-            //var_dump($args);
+
             // Add event post type
             $args['post_type'] = array('post', 'event');
+
             // Add category events
             if (is_category()) {
                 //$args['event-categories'] = $args['category_name'];
 
+                if (strpos($args['category_name'], '/') !== false) {
+                    $terms = substr($args['category_name'], strpos($args['category_name'], '/') + 1);
+                } else {
+                    $terms = $args['category_name'];
+                }
                 $args['tax_query'] = array(
                                         'relation' => 'OR',
                                         array(
                                             'taxonomy' => 'category',
                                             'field' => 'slug',
-                                            'terms' => $args['category_name'],
+                                            'terms' => $terms,
                                         ),
                                         array(
                                             'taxonomy' => 'event-categories',
                                             'field' => 'slug',
-                                            'terms' => $args['category_name'],
+                                            'terms' => $terms,
                                         ),
                                     );
-
-                /*$args['meta_query'] = array(
-                                        array(
-                                            'key' => 'event_end_date',
-                                            'value' => date('Y-m-d'),
-                                            'compare' => '<=',
-                                            'type' => 'CHAR',
-                                        ),
-                                    );*/
 
                 unset($args['category_name']);
             }

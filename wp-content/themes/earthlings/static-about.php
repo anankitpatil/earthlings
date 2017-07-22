@@ -115,6 +115,84 @@
                 <div class="col-lg-12 team-panel">
                     <div class="row">
                         <div class="col-md-4">
+                          <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 595.3 841.9" style="enable-background:new 0 0 595.3 841.9;" xml:space="preserve">
+                              <style type="text/css">
+                                  .sl0 {
+                                      fill: none;
+                                      stroke: #000000;
+                                      stroke-miterlimit: 10;
+                                  }
+                              </style>
+                              <g>
+                                  <path id="XMLID_439_" class="sl0" d="M243.9,236.1c0,0,2.3,36.8,7.5,43.8c7.6,10.3,28.5,29.9,41.2,28c1.2-0.2,5.8,0.1,7.1-0.5
+                                  c9.3-4.5,22-21.6,24.4-29.8c2.6-9,1.5-41.4,1.5-41.4" />
+                                  <path id="XMLID_440_" class="sl0" d="M265.4,294.8c0,0,3.2,23,0,29.7c-3.7,7.9-19.7,17.2-26.8,22.1c-8.2,5.6-28.3,5-34.5,19.2
+                                  c-5.8,13.2,0.7,30.7,3.8,40.3c8.7,26.6,35.3,78.9,57.5,95.9c3.3,2.6,15.8,5.8,15.8,5.8s16.7,3.1,21.8,4c16,2.7,82,13.9,82,13.9" />
+                                  <path id="XMLID_441_" class="sl0" d="M250.1,388.7c0,0,11.7,21.6,17,32.1c5,9.9,12.5,39.2,20.1,50.4" />
+                                  <path id="XMLID_455_" class="sl0" d="M278.3,470.2c0,0,21.9,2.5,34.5,7.2c22.7,8.4,62.5,23.7,77.7,25.6c21.7,2.8,18.1,2.8,18.1,2.8" />
+                                  <path id="XMLID_456_" class="sl0" d="M313.6,294.8c0,0-4.1,21.3,0,28.1c3.6,5.9,13.7,9.9,18.8,11.9c13,5,25.2,6.5,38.7,12.7
+                                  c9.3,4.3,18.9,20.9,18.9,30c0,13.6-4.8,38.5-5.8,52c-1,14.3-1.7,45,3.1,58.4c1.9,5.3,13.7,16.6,13.7,16.6" />
+                                  <line id="XMLID_458_" class="sl0" x1="354.3" y1="466.1" x2="359.5" y2="494.2" />
+                                  <path id="XMLID_459_" class="sl0" d="M351.1,376.8c4.4,9.9,7.9,19.7,23.1,34.9c6.8,6.8,2.4,22.1-0.4,28.8
+                                  c-7.2,17.2-32,28.4-24.4,50.2" />
+                                  <path id="XMLID_476_" class="sl0" d="M257.7,402.8c8.3-5.6,17.5-12.4,27.7-13.5c9.7-1.1,19.2,3.1,27.4,7.9c4.9,2.9,6.6,6,11.2,3.5
+                                  c3.6-1.9,6.8-9,10.1-11.9c5.8-5,16.1-5,22.9-0.2" />
+                                  <path id="XMLID_93_" class="sl0" d="M203.2,390.1c-9.1-1.2-15.2,21.6-15.2,21.6s-0.1-29.4,12.7-48.7c21.2-31.9-0.5-12.7-0.5-12.7
+                                  c18.8-30,25.9-46.3,19.1-65.6c3.8,30.9-20.9,50.3-20.9,50.3c18.3-26.7,13.6-48.3,15.1-93.2c0.5-14.5,6.3-51.3,17.6-60.3
+                                  c2.8-2.3,11.3-4.6,11.3-4.6s22.8-23.6,32.6-27.8c4.7-2,15.7-1.6,20.6,0c16,5.3,27.4,16,37.1,29.7c6.7,9.4,11.6,38.1,25,56.1
+                                  c7.3,9.8,19.5,22.7,20.8,34.9c2.2,19.8-6.7,39.1-4.7,59.7c1.8,18.3,42.4,40.1,21.6,89.7c-7.9,18.8,2.1,31.2,16.9,38.1
+                                  c0,0-24.1,2-28.6-9.6" />
+                                  <path id="XMLID_98_" class="sl0" d="M358.8,268.5c0.6,8.6,0.1,17.3-2.3,25.5c-2.8,9.5-8.1,18.1-10.8,27.7
+                                  c-3,10.9-2.3,22.5-1.6,33.7c-3.3-6.9-5.7-14.2-6.4-21.8c-0.6-6.6,0.2-13.5,2.9-19.6c2.8-6.3,6.1-12.5,7.7-19.3" />
+                                  <path id="XMLID_57_" class="sl0" d="M230.8,298c8.5,26.6-7.7,37-7.7,37s27-2,27-29.7c0-12.6-8.8-23.8-9.5-37.9
+                                  c-2-39.9,23.9-67.6,23.9-67.6s11.6,17.7,31.2,25.9c12.7,5.3,35.5,9.4,47.9,15.3c16.8,8,19.9,51.8,19.9,51.8s8.9-31.6-5.6-57.9" />
+                                  <path id="XMLID_105_" class="sl0" d="M243.1,597.5c0,0,2.3,47,31.5,60.9" />
+                                  <path id="XMLID_463_" class="sl0" d="M488.8,502.8c0,0-36.2,22-46,32c-12.5,12.7-29.6,44.6-41.2,58.1
+                                  c-27,31.5-64.5,69.5-109.6,68.5c-9.9-0.2-19.5-2.9-28.7-6.6c-6.4-2.6-12.7-5.9-17.2-11.1c-6.2-7.3-8.1-17.5-7.1-27.1
+                                  c1.5-14.7,7.9-29.3,11.2-43.7c3.6-15.7,6.3-31.9,4.8-48.1c-2.4-27-17.4-52.2-38.8-68.6c-24.5-18.8-55-21.2-84.4-26.2
+                                  c0,0,55.1,45.7,36.8,116l0,0c-8.3-28.2-26.3-53.3-51.3-68.7c-33.4-20.5-68.8-17.7-106.1-14.7c7.8-0.6,22.5,13.7,27.9,18
+                                  c13.3,10.4,22.5,22.5,29.2,38.1C75,533.8,79,549.9,85,565.2c7.7,19.6,18.9,38.3,35.2,51.7c26.7,21.9,62.2,26.7,94.1,36.6
+                                  c35,10.8,66.5,37.7,103.7,40.3c37.3,2.7,107.1-14.6,140.2-31.9c26.6-13.9,99.5-55.3,112.2-82.5c11.1-23.7,20.6-71.6,5.5-93
+                                  c-20.6-29.1-71.6-28.5-95.9-24c-30.5,5.7-76.2,53.8-103.5,68.5c-3,1.6-9.3,2.6-12.6,1.9c-5.8-1.2-9.7-6.8-9.7-12.8" />
+                                  <path id="XMLID_143_" class="sl0" d="M254.1,490.7c5.8,14.8,1.2,37.7,1.2,37.7" />
+                                  <line id="XMLID_236_" class="sl0" x1="368.7" y1="522.4" x2="375.9" y2="532.1" />
+                                  <path id="XMLID_241_" class="sl0" d="M325.7,249.1c4.5,7.6,5.3,16.5,3.7,26.2c5.2-6.8,7.3-13.7,5.4-20.9c4.6,12,4.3,29.3-3.4,45.7
+                                  c7.3-6.3,12.4-16.9,13.4-23.2c1.2,8.1-5.4,37.1-7.1,45.7" />
+                                  <path id="XMLID_460_" class="sl0" d="M165.3,446.7c0,0,113,26.8,54.6,181.2" />
+                                  <path id="XMLID_462_" class="sl0" d="M184,476c0,0,46.5,25.4,22.5,128" />
+                                  <path id="XMLID_448_" class="sl0" d="M51.7,476C91,490.7,102.5,619.8,201.8,637" />
+                                  <path id="XMLID_464_" class="sl0" d="M89,494.2c0,0,44,97.7,99,121.2" />
+                                  <path id="XMLID_471_" class="sl0" d="M131.9,525.5c0,0,14.6,42,40.5,55.9" />
+                                  <path id="XMLID_472_" class="sl0" d="M188,513.4c0,0,13.8,35.5,0,63.8" />
+                                  <path id="XMLID_196_" class="sl0" d="M169.6,549.8c0,0,15.9,64.5,53.2,93.7" />
+                                  <path id="XMLID_474_" class="sl0" d="M242,637c0,0-1.5,19.5-19.2,19.4" />
+                                  <path id="XMLID_475_" class="sl0" d="M311.8,659.4c0,0,23.1,17,6.4,34.5" />
+                                  <path id="XMLID_477_" class="sl0" d="M322.1,656.4c0,0,20.6,19.5,6.2,37.4" />
+                                  <path id="XMLID_479_" class="sl0" d="M468,516.1c0,0,94.8,18.6,74.2,93.5" />
+                                  <path id="XMLID_480_" class="sl0" d="M460.6,521.1c0,0,87.7,18.7,73.8,94.4" />
+                                  <path id="XMLID_481_" class="sl0" d="M356.2,527.2c0,0-109.3,16.3-110.3,88.2" />
+                                  <path id="XMLID_482_" class="sl0" d="M359,530.5c0,0-113.3,20.4-110.6,93.6" />
+                                  <g id="XMLID_107_">
+                                      <path id="XMLID_486_" class="sl0" d="M274.7,286c0,0,19,7.6,32.3-1.3" />
+                                      <g id="XMLID_483_">
+                                          <path id="XMLID_485_" class="sl0" d="M294.1,244.6c0,0,12.7-11.3,24.4-1.7" />
+                                          <path id="XMLID_484_" class="sl0" d="M282.1,244.6c0,0-12.7-11.3-24.4-1.7" />
+                                      </g>
+                                  </g>
+                              </g>
+                            </svg>
+                        </div>
+                        <div class="col-md-8 text-left">
+                            <h4>Dr. Sonal Keswani</h4>
+                            <p>Earthlings, for me, is a platform to be and create what I know is possible for changing the world. Changing the world isn’t about activism, it’s not a mission,  or a sacrifice or a purpose. It is a way of being, it’s who you are.</p>
+                            <p>Co founder of Earthlings (code name : boss number 2 ),  Doctor of medicine MBBS (No, I don’t write unnecessary prescriptions), healer (Humans, pigeons, turtles, puppies, sparrows, rabbits and well anything and everything else that I can heal). Access consciousness certified facilitator , Bars facilitator, Body Process Facilitator, Esse Practitioner, Talk to the Entities Practitioner, Being You Practitioner.(I may have a highly vivid imagination but  I’m not making these up.)</p>
+                            <p>My proud accomplishments include winning a race in 3rd grade (category : running with a fractured hand) and being the fastest kid in school (no it wasn’t my bench partner, it was my ADHD that secretly helped). Easily bored with slow things (I started my soul searching journey so fast, I wasn't even 18!)</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12 team-panel">
+                    <div class="row">
+                        <div class="col-md-4">
                             <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 600 725.2" style="enable-background:new 0 0 600 725.2;" xml:space="preserve">
                                 <style type="text/css">
                                     .sx0 {
@@ -590,6 +668,93 @@
                                 <h4>Manasi Tambe</h4>
                                 <p>“I chose Earthlings because it lets me be and I always have a choice to express what I feel, may it be through colours, words or movement.”</p>
                                 <p>I’m in pursuit of psychology (fascinated by counterknowledge), Old Soul (born at a very young age), REBT and Access Bars Facilitator (healer at first touch), Geek (I’m smart, committed and I wear glasses), Explorer (like a tree with many leafs), Nature-lover (how I wish I could turn this into a profession), Piano-player (by default), Rhythm-Person (I talk rhythm, I walk rhythm, I can’t eat rhythm (don't be silly), I live rhythm).</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 team-panel">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 595.3 841.9" style="enable-background:new 0 0 595.3 841.9;" xml:space="preserve">
+                                    <style type="text/css">
+                                        .sf0 {
+                                            fill: none;
+                                            stroke: #000000;
+                                            stroke-miterlimit: 10;
+                                        }
+                                    </style>
+                                    <g>
+                                        <path id="XMLID_581_" class="sf0" d="M386.6,305.3c0,0,0.8,36,0,47.8c-1.8,28.5-13.1,65.4-19.8,89.2c-2.4,8.4,0.8,24.9,1.9,33.5
+                                    c0.3,2.7-0.2,14.4-1.6,16.7c-1.6,2.5-4.5,2.8-5.4-1.2c-0.3,4.2-6.6,10-9.8,2.6c1,8.3-7.7,9.2-7.9,4c1.3,4.4-6.5,5.8-8.4,3.4
+                                    c-2-2.6-0.3-11.2-0.7-13.5c-0.2,4.6-6.3,5.1-5.2,1.9c1.5-4.4,1.4-19.5,2.9-23c2.1-5.1,10.4-16.6,11.1-22
+                                    c9.2-70.4,8.7-90.1,8.7-90.1l-8.6-46.9" />
+                                        <path id="XMLID_428_" class="sf0" d="M214.9,292.6l7.5,42.7c0,0-2.1,10.9-8,81.6c-0.5,5.5-8.2,17.4-10.1,22.5
+                                    c-1.3,3.6-0.5,18.6-1.8,23.1c-1,3.2,6.9,4.2,7.8-6.8c0.5,2.3,0.6,15.7,2.7,18.3c2,2.4,7.1-0.3,5.6-4.6c0.4,5.2,7.6,4.6,6.2-3.6
+                                    l2.7,5.2l2.7,0.2" />
+                                        <path id="XMLID_582_" class="sf0" d="M220.2,213.7c0,0-7.4,21.8-8.8,30.3c-1.3,8-2.2,27.5-1.9,35.6c0.1,3.5,2.4,11.1,5.4,13
+                                    c2.3,1.5,11.1,0,11.1,0" />
+                                        <path id="XMLID_533_" class="sf0" d="M337,699.2c0,0-4.3-5.2-0.9-11.6c1.5-2.9-3-6.9-3.2-11c-1.3-18.5-3.2-43.4-4.9-54.3
+                                    c-4.2-27.7-15.8-45.3-15.8-45.3c13.6-18.8,29.5-56.5,33.4-76.4" />
+                                        <path id="XMLID_421_" class="sf0" d="M310.7,704.2c6.2,10.5-22.7,41.6-28.5,53.7c-1.6,3.5-2.7,10.2,0,12.9c5,5,22.2,2.5,28.5-0.9
+                                    c7.4-4,8.8-17.8,18.3-27.6c3.3-3.4,15.1-4.2,19.2-16.7c4.6-14.1-18.1-23.7-11.2-26.4" />
+                                        <path id="XMLID_531_" class="sf0" d="M290.5,695.8c4.5,11.4-36.1,35.2-43.7,46.2c-2.2,3.2-4.3,9.7-2,12.8c4.2,5.8,21.5,6,28.3,3.6
+                                    c8-2.8,11.5-16.2,22.4-24.4c0.9-0.7,2.4-1.2,4.1-1.6" />
+                                        <path id="XMLID_521_" class="sf0" d="M281,428.5c0,0,0.3,30.7-0.6,40.9c-1.9,21.9-12.7,83.5-12.7,83.5s-2.1,19.1,3.6,31.8
+                                    c12.3,27,29,80.3,33.7,100.9c0.4,1.8-2.7,5.3-1.9,7c1,2,4.2,2.5,5.3,4.5c0.9,1.6,2.4,7.3,2.4,7.3" />
+                                        <path id="XMLID_419_" class="sf0" d="M230.2,381.5c10.3,14.3,18.9,23.8,36.8,27.7c29.5,6.4,55,2,80.8-13.1" />
+                                        <path id="XMLID_424_" class="sf0" d="M273.1,74.8c-18.6,3.1-29.8,24.8-35.6,40.8c-6.5,17.8-8.3,37.5-4.7,56.1
+                                    c1.1,5.5,3.2,12.8-2.5,16.7c-10.5,7-17.2,23.1-15,33.7c4.4-8.2,9.6-17.4,10.8-14.1c2.6,7-8,30.4-4.6,26.3
+                                    c7.6-9.2-3.6,21.5,6.9,11.7c4.4-4.2,0.3,9.6-2.3,20.5c-3.4,13.9,8,23.6,12.7,24.5c0,0-9.5-23.9,5.4-25.9c5.7-0.8,7.2,3.2,5,14.4
+                                    c8.7-10.1,1.7-34.3,3.8-30c1.8,3.9,3.1,4.5,4.7,9.9c11.3-22.4,1.4-32.5,4.1-38.5c1.1,0,2.9,3.7,4.2,10.1c4.5-7.7-0.1-24.5,8.7-17.3
+                                    c2.7-5.9-7.4-16.4-8.4-22.2c-0.7-3.8,0-11.5,0-15.3" />
+                                        <path id="XMLID_423_" class="sf0" d="M262.9,234.4c0,0,15.4,7.3,25,0" />
+                                        <path id="XMLID_426_" class="sf0" d="M287.9,91.8c-3-2.2-11.3-3.7-13.2-6.9c-1.9-3.1-2.6-12,0-14.6c3.7-3.7,16.1-1.8,21,0
+                                    c10.3,3.8,26.8,19.6,33.4,28.4c5,6.6,23.6,39.9,23.4,64.8c-3.6-5.9-5.6-9.5-9.8-9.3c0,0,20.5,26.4,16.5,51.6
+                                    c0.2-15.9-7.4-6.9-6.5,1.9c-3.6-8.3-4.2-10.4-9.7-11.8c0,0,5.8,3.9,5.7,24.3c-0.1,11.1-6.1,19.5-6.1,19.5s3.1-10.3,1.1-18.8
+                                    c-0.9-3.8-6.2-10.3-6.2-10.3s3.2,12.2,2.4,19.9c-1.9,19.2-14.9,32.6-14.9,32.6c5.4-6.8,0.8-25.7-6.1-22.2
+                                    c-0.8,21.1-15.7,34.9-15.7,34.9s9.6-36-1.5-41.4c-6.5,3.8-7.9,21.6-5.8,25.7c0,0-10.2-17.6-6.7-31c1.6-6,3.8-9.9,6.7-15.3
+                                    c1.8-3.4,7.1-12.5,10.8-17.1c4.4-5.5,8.3-17.9-2-5.5c-1.4-10.3-0.3-15.1,4.3-25.7c0,0,9.1-10.8,5.3-32.5
+                                    c-1.2-7.2-4.6-23.2-11.9-26.5C293.8,102.6,292,94.9,287.9,91.8z" />
+                                        <path id="XMLID_425_" class="sf0" d="M360.4,203c9.7,11.9,20.3,31.5,23.6,46.6c0.7,3.2,1.9,16.2,2.6,19.4
+                                    c1.2,5.7,6.9,17.8,6.2,23.6c-0.5,4.2-1.9,10.9-4.9,12.3c-4.4,2-9.8-2.3-19.3-2c-17,0.5-27.7,7-29.6,4.7c-5-6-4.4-22.5-4.6-30.2
+                                    c-0.4-11,3.4-40.2,3.4-40.2" />
+                                        <g id="XMLID_571_">
+                                            <path id="XMLID_575_" class="sf0" d="M271.4,159.4c0,0,15.2,6.1,25.8-1" />
+                                            <g id="XMLID_572_">
+                                                <path id="XMLID_574_" class="sf0" d="M287,129.9c0,0,10.2-9.1,19.5-1.4" />
+                                                <path id="XMLID_573_" class="sf0" d="M277.4,129.9c0,0-10.2-9.1-19.5-1.4" />
+                                            </g>
+                                        </g>
+                                        <path id="XMLID_532_" class="sf0" d="M305.9,721.6" />
+                                        <path id="XMLID_577_" class="sf0" d="M277.5,375.6c0,0-8.1-47.7-2.9-58.6c2.2-4.6,10.9-8,14.3,14.7" />
+                                        <path id="XMLID_579_" class="sf0" d="M367.8,348.4c0,0-9.8-0.7-15.3,6" />
+                                        <path id="XMLID_580_" class="sf0" d="M241.9,422.8c-11-1.2-22-14.5-22-14.5" />
+                                        <path id="XMLID_583_" class="sf0" d="M307.2,575.2c3.1,0.8,5,1.8,5,1.8" />
+                                        <path id="XMLID_584_" class="sf0" d="M337,699.2c-8.9,7.8-26.3,5-26.3,5" />
+                                        <path id="XMLID_585_" class="sf0" d="M322.6,690.8c0,0-10.1,6.5-14.3,6.1" />
+                                        <path id="XMLID_586_" class="sf0" d="M304.3,693.9c0,0-7.2,3.4-16.4,1.9" />
+                                        <path id="XMLID_427_" class="sf0" d="M296.9,676.6c0,0-10.3,0.4-12.8,4.6" />
+                                        <path id="XMLID_429_" class="sf0" d="M235.9,326.1c0,0,1.2,4.5,17.3,18.5" />
+                                        <path id="XMLID_431_" class="sf0" d="M388.6,275.8c0,0-13-10.6-18.8,0" />
+                                        <path id="XMLID_422_" class="sf0" d="M274.7,84.9c-11,4.7-17.6,19.3-21.1,29.8c-4.2,12.6-5.6,26.2-3.7,39.4
+                                    c1.8,12.7,12.3,22.4,24.4,25.5c13.2,3.4,27.3-2.8,34.7-14.2" />
+                                        <path id="XMLID_499_" class="sf0" d="M266,187.7c0,0,3.1,3.6,9.2,3.6" />
+                                        <path id="XMLID_435_" class="sf0" d="M303.8,152.9c0,0,2.7,3.8,0,6.1" />
+                                        <path id="XMLID_515_" class="sf0" d="M265.6,154.2c0,0-2.7,3.8,0,6.1" />
+                                        <path id="XMLID_520_" class="sf0" d="M227.4,280.4c-0.7,3.8-1.7,17.3-0.9,21.1c1.4,6.4,8.5,18.1,9.4,24.7
+                                    c1.8,13.8-5.7,55.4-5.7,55.4s-9.6,19.7-10.3,26.8c-1.6,15.8,10.3,62.9,10.3,62.9l14.6,64.4l10,18.4l25.8,110.2c0,0,0.9,10-1.8,12.1
+                                    c-1.4,1.1,5.5,3.2,5.4,5c-0.2,2.7-2,6.2-1.5,8.2c0.4,1.7,5.4,6.3,5.4,6.3" />
+                                    </g>
+                                </svg>
+                            </div>
+                            <div class="col-md-8 text-left">
+                                <h4>Arusha Vaidya</h4>
+                                <p>Earthlings for me is a journey of self exploration and creating anything and everything that I can imagine!</p>
+                                <p>Person. (Not a city from the East. Google my name!)<br />
+                                  Content writer (Can occasionally make it sound like a poem)<br />
+                                  Social media manager (fancy excuse to be on facebook and Instagram all day)<br />
+                                  To be psychologist (reading minds really isn't what they teach us)<br />
+                                  Sports enthusiast (read basketball, pizza eating contests and movie marathons.)</p>
+                                <p>My sense of humor and sarcasm help me cope with the weird things other Earthlings do.</p>
                             </div>
                         </div>
                     </div>

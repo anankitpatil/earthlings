@@ -8,6 +8,12 @@
  * @package earthlings
  */
 ?>
+	<?php // Filter old events
+	$event_start = get_post_meta( get_the_ID(), '_event_start_date' );
+
+	$time = strtotime($event_start[0]);
+	if ($event_start[0] == '' || date('Y-m-d', $time) > date('Y-m-d')) { ?>
+
 	<article id="post-<?php the_ID(); ?>" <?php post_class( 'home-post-block'); ?>>
 
 		<?php
@@ -16,6 +22,7 @@
 		 */
 		?>
 		<?php if ( !is_singular() ) : ?>
+
 			<?php if ( has_post_thumbnail() AND !is_search() ) : ?>
 				<div class="post-thumbnail">
 					<a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
@@ -26,10 +33,10 @@
 			<?php endif; ?>
 
 			<!--<div class="entry-summary">
-			<?php the_excerpt(); ?>
-		</div>--><!-- .entry-summary -->
+				<?php the_excerpt(); ?>
+			</div>--><!-- .entry-summary -->
 
-		<?php get_template_part( 'content', 'post-header' ); ?>
+			<?php get_template_part( 'content', 'post-header' ); ?>
 
 		<?php
 		/*
@@ -51,3 +58,5 @@
 		<?php endif; ?>
 
 	</article><!-- #post-## -->
+
+	<?php }; ?>

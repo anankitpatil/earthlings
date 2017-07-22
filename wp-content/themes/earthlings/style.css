@@ -679,6 +679,9 @@ div.navbar-collapse.collapse {
 .post:not(.home-post-block) .entry-content .embed-responsive, .event:not(.home-post-block) .entry-content .embed-responsive {
 	margin-bottom: 30px;
 }
+.event:not(.home-post-block) .aligncenter {
+	width: 100%;
+}
 .event-map {
 	margin-top: 30px;
 }
@@ -804,6 +807,13 @@ div.navbar-collapse.collapse {
 }
 .social a i:not(.fa-envelope-o, .fa-phone) {
 	font-size: 21px !important;
+}
+.fb-like-button {
+	position: absolute;
+	width: 77px;
+	overflow: hidden;
+	right: 30px;
+	top: 19px;
 }
 
 /*--------------------------------------------------------------

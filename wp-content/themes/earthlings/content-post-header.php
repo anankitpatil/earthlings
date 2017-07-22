@@ -17,8 +17,7 @@
 
 		<div class="entry-tags">
 			 <?php $categories = get_the_category();
-			 	$taxonomies = get_terms();
-				//var_dump($taxonomies);
+			 	$taxonomies = get_the_terms(get_the_ID(), 'event-categories');
 				if ( ! empty( $categories ) ) {
 					$i = 0;
 					foreach ( $categories as $category ) {
@@ -29,16 +28,14 @@
 				} else {
 					$i = 0;
 					foreach ( $taxonomies as $taxonomy ) {
-						if ( $taxonomy->taxonomy == 'event-categories' ) {
-							$link = '';
-							$_categories = get_categories( array( 'hide_empty'=>0 ) );
-							foreach ($_categories as $category) {
-								if ($taxonomy->name == $category->name) $link = esc_url( get_category_link( $category->term_id ) );
-							}
-							if ( $i != 0 ) echo ', ';
-							echo '<a href="' . $link . '">' . esc_html( $taxonomy->name ) . '</a>';
-							$i++;
+						$link = '';
+						$_categories = get_categories( array( 'hide_empty'=>0 ) );
+						foreach ($_categories as $category) {
+							if ($taxonomy->name == $category->name) $link = esc_url( get_category_link( $category->term_id ) );
 						}
+						if ( $i != 0 ) echo ', ';
+						echo '<a href="' . $link . '">' . esc_html( $taxonomy->name ) . '</a>';
+						$i++;
 					}
 				} ?>
 		</div>
@@ -85,38 +82,6 @@
 				<?php if ( $meta['_event_start_date'][0] != $meta['_event_end_date'][0] ) : ?>
 					to <span><?php echo date('jS F Y', strtotime( $meta['_event_end_date'][0] ) ); ?></span>
 				<?php endif; ?>
-
-			</div>
-
-			<div class="event-map">
-
-				<?php $location = em_get_location( $meta['_location_id'][0] ); // var_dump($location); ?>
-
-				<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script>
-				<div id='gmap_canvas' class="map"></div>
-				<script type='text/javascript'>
-				    function init_map() {
-				        var myOptions = {
-				            zoom: 12,
-							scrollwheel: false,
-				            center: new google.maps.LatLng( <?php echo $location->location_latitude; ?>, <?php echo $location->location_longitude; ?> ),
-				            mapTypeId: google.maps.MapTypeId.ROADMAP
-				        };
-				        map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);
-				        marker = new google.maps.Marker({
-				            map: map,
-				            position: new google.maps.LatLng( <?php echo $location->location_latitude; ?>, <?php echo $location->location_longitude; ?> )
-				        });
-				        infowindow = new google.maps.InfoWindow({
-				            content: '<strong> <?php echo $location->location_name; ?> </strong> <br /> <?php echo str_replace( ', ', '<br />', $location->location_address ); ?> <br /> <?php echo $location->location_town . ', ' . $location->location_state; ?>'
-				        });
-				        google.maps.event.addListener(marker, 'click', function() {
-				            infowindow.open(map, marker);
-				        });
-				        infowindow.open(map, marker);
-				    }
-				    google.maps.event.addDomListener(window, 'load', init_map);
-				</script>
 
 			</div>
 

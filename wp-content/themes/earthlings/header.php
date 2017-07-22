@@ -124,6 +124,11 @@
 		</div><!-- .navbar -->
 		</nav><!-- #site-navigation -->
 
+		<!-- FB Like button -->
+		<div class="fb-like-button">
+			<?php echo fb_like_button(); ?>
+		</div>
+
 	</header><!-- #masthead -->
 
 	<?php // Set up the content area (but don't put it in a container) ?>
